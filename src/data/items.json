@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Produto Teste",
+    "description": "Este é um item de teste"
+  },
+  {
+    "id": 2,
+    "name": "Produto Teste",
+    "description": "Este é um item de teste"
+  },
+  {
+    "id": 3,
+    "name": "Produto Teste",
+    "description": "Este é um item de teste"
+  }
+]
